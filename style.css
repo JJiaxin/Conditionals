@@ -1,0 +1,26 @@
+
+ #mySelect {
+    text-align: center;
+ }
+body {
+    text-align: center;
+    background-color: antiquewhite;
+    height: 1000px;
+}
+
+.content {
+    background-color: rgb(236, 240, 242);
+    width: 500px;
+    display: inline;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+img {
+    height: 300 px;
+    width: 400px;
+    display: inline;
+}
+
